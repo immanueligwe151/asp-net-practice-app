@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Firebase Secret Key
+asp-net-practice-app-firebase-adminsdk-fbsvc-78d4901d0e.json
